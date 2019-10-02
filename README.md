@@ -3,7 +3,7 @@
 In this repo, we use two hyperparameter optimisation techniques: Grid Search and Bayesian Optimisation to train two Neural Network Architectures: Feed Forward Neural Network and Convolutional Neural Network on the MNIST dataset.
 
 ## Installation
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`  
 Run the above command to install the required packages
 
 ## Work Done
